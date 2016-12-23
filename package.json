@@ -1,0 +1,18 @@
+{
+  "name": "component-name-to-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "START node_modules\\.bin\\http-server && opener http://localhost:8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0",
+    "opener": "^1.4.2"
+  }
+}
